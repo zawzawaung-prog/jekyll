@@ -210,4 +210,4 @@ That's it - you can now turn a CSV into an HTML table using Jekyll.
 - Change the field names in the CSV.
 - Choose a different CSV.
 - Add CSS styling to your table.
-- Render the table using a JSON or YAML input file.
+- Render the table using a JSON or YAML input file. 
