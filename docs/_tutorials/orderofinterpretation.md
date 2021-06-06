@@ -156,4 +156,4 @@ On a page, you try to insert the value:
 ```
 {% endraw %}
 
-This would render only as a string rather than a code sample with syntax highlighting. To make the code render, consider using an include instead.
+This would render only as a string rather than a code sample with syntax highlighting. To make the code render, consider using an include instead. 
