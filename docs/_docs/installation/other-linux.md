@@ -57,4 +57,4 @@ sudo swupd bundle-add ruby-basic
 ```
 ## Install Jekyll
 
-Follow the instructions for [Ubuntu](../ubuntu/).
+Follow the instructions for [Ubuntu](../ubuntu/). 
